@@ -1,4 +1,4 @@
-#6.Write a program to convert days into years, weeks and days.??
+#5.Write a program to convert days into years, weeks and days.??
 
 
 days = int(input('enter the days: '))
@@ -15,3 +15,4 @@ print(weeks)
 days = days % 7
 
 print(days)
+
